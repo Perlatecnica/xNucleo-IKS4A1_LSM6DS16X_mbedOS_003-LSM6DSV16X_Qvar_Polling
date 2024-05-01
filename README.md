@@ -1,4 +1,4 @@
-# xNucleo-IKS4A1_LSM6DS16X_mbedOS_003-LSM6DSV16X_Qvar_Polling
+# xNucleo-IKS4A1_LSM6DSV16X_mbedOS_003-LSM6DSV16X_Qvar_Polling
 
 This application shows how to use LSM6DSV16X Qvar features in polling mode.
 
